@@ -8,4 +8,4 @@ Set up
  
 As a test, please set up and run this porotype visualization porotype tool, and 
 1.	Forward the generated plot
-2.	Change the axis to display timestamp as timetime format by either using different timestamp field or configuring axis formatter.
+2.	Change the axis to display timestamp as datetime with NS format by either using different timestamp field or configuring axis formatter.
