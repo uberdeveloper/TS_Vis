@@ -4,7 +4,7 @@ The primary focus of this porotype tool is to use HoloViews and Datashader to cr
 Set up
 1. create and activate conda environment vertexen.yml
 2. change base directory to where the oe & mbp parquet data are saved
-3. once run, please fill the following instrument and date for data viewer tool
+3. once run, please fill the following instrument(ESH9) and date(2018-10-05) for data viewer tool
  
 As a test, please set up and run this porotype visualization porotype tool, and 
 1.	Forward the generated plot
