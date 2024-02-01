@@ -1,10 +1,11 @@
 # TS_Vis
-Time series visualization w. holoviews
+The primary focus of this porotype tool is to use HoloViews and Datashader to create visualization for future trading transaction data. The project aims to enhance capability to analyze and interpret future transaction data effectively. 
 
-This repo contain a future tranaction vislauzation tool portotype 
-Set up:
-1. create and activate conda enivorment vertexen.yml
-2. 
-
-Question:
-1. please forward 
+Set up
+1. create and activate conda environment vertexen.yml
+2. change base directory to where the oe & mbp parquet data are saved
+3. once run, please fill the following instrument and date for data viewer tool
+ 
+As a test, please set up and run this porotype visualization porotype tool, and 
+1.	Forward the generated plot
+2.	Change the axis to display timestamp as timetime format by either using different timestamp field or configuring axis formatter.
