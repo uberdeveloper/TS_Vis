@@ -7,5 +7,5 @@ Set up
 3. once run, please fill the following instrument(ESH9) and date(2018-10-05) for data viewer tool
  
 As a test, please set up and run this porotype visualization porotype tool, and 
-1.	Forward the generated plot
+1.	Forward the generated plot 
 2.	Change the axis to display timestamp as datetime with NS format by either using different timestamp field or configuring axis formatter.
