@@ -5,3 +5,6 @@ Set up
 1. create and activate conda environment vertexenv.yml
 2. change base directory to where the oe & mbp parquet data are saved
 3. once run, please fill the following instrument(ESH9) and date(2018-10-05) for data viewer tool
+ 
+Goal: 
+Change the axis to display timestamp as datetime with NS format.
