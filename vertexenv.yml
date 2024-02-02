@@ -1,6 +1,6 @@
 name: vertexenv
 channels:
-  - anaconda
+  - anaconda 
   - conda-forge
   - defaults
 dependencies:
